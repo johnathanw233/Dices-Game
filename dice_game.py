@@ -1,3 +1,6 @@
+# Johnathan Wang
+# Last edited: May 12, 2019
+
 import random
 
 
